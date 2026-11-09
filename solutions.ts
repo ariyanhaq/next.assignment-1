@@ -18,7 +18,6 @@ const processInput = (value: Values): string | number => {
 
 
 type Coordinate = readonly [number, number, string];
-
 const formatCoordinate = (value: Coordinate): string => {
   return `Location: ${value[2]} (${value[0]}, ${value[1]})`;
 };

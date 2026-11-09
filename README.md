@@ -1,8 +1,8 @@
 # TypeScript & OOP - Assignment 1 (B8A1)
 
-Hey there! This repository contains my solutions for **Assignment 1 (Module 4)** of the Programming Hero course. The focus of this assignment is practicing core TypeScript fundamentals, strong typing, and Object-Oriented Programming (OOP) concepts.
+Hey there! This repository contains my solutions for **Assignment 1** of the Programming Hero course. The focus of this assignment is practicing core TypeScript fundamentals, strong typing, and Object-Oriented Programming (OOP) concepts.
 
-## What's Inside
+## What is Inside
 
 All problem solutions are implemented in `solutions.ts`, covering:
 
