@@ -23,7 +23,7 @@ As part of the assignment, I wrote two short articles breaking down key TypeScri
 ## Project Structure
 
 ```text
-B8A1/
+next.assignment-1/
 ├── solutions.ts            # Assignment problem solutions
 ├── type-vs-interface.md    # Blog post 1
 ├── type-narrowing.md       # Blog post 2
